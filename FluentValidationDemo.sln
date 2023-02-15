@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentValidationDemo", "FluentValidationDemo\FluentValidationDemo.csproj", "{E6981123-71A2-4FAE-BEDA-1DE3D80776C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{E0F37C1D-4C50-448A-B68E-23290C6B0C2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6981123-71A2-4FAE-BEDA-1DE3D80776C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6981123-71A2-4FAE-BEDA-1DE3D80776C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6981123-71A2-4FAE-BEDA-1DE3D80776C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6981123-71A2-4FAE-BEDA-1DE3D80776C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E6981123-71A2-4FAE-BEDA-1DE3D80776C2} = {E0F37C1D-4C50-448A-B68E-23290C6B0C2F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CC4C9BB-26CF-40BC-94A0-E49D3B01FC37}
+	EndGlobalSection
+EndGlobal
